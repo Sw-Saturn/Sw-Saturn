@@ -1,4 +1,18 @@
-## :wave: Hi there, I'm Kanta Demizu :man_technologist: 
+## :wave: Hi there,
+
+
+- :hammer: Techs: 
+<img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=Python&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-%232496AB.svg?style=flat-square&logo=Docker&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20Azure-%230089D6.svg?style=flat-square&logo=Microsoft%20Azure&logoColor=white" />&nbsp;&nbsp;
+
+- :student: Studying: Electrical & Computer Engineering @ NIT. Maizuru College
+
+- :octocat: Portfolio: [sw-saturn.dev](https://sw-saturn.dev)
+
 
 <p align='center'>
   
@@ -16,18 +30,6 @@
   
 </p>
 
-
-- :blue_heart: Techs: 
-<img src="https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=Go&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=Python&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-%232496AB.svg?style=flat-square&logo=Docker&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Azure-%230089D6.svg?style=flat-square&logo=Microsoft%20Azure&logoColor=white" />&nbsp;&nbsp;
-
-- :student: Studying: Electrical & Computer Engineering @ NIT. Maizuru College
-
-> :octocat: [sw-saturn.dev](https://sw-saturn.dev)
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=sw-saturn.sw-saturn"></a>
