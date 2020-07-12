@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Docker-%232496AB.svg?style=flat-square&logo=Docker&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft%20Azure-%230089D6.svg?style=flat-square&logo=Microsoft%20Azure&logoColor=white" />&nbsp;&nbsp;
 
-- :student: Studying: Electrical & Computer Engineering @ NIT. Maizuru College
+- :student: Studying: Electrical & Computer Engineering @ [NIT. Maizuru College](https://www.maizuru-ct.ac.jp)
 
 - :octocat: Portfolio: [sw-saturn.dev](https://sw-saturn.dev)
 
