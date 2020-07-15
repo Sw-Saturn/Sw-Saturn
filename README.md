@@ -29,8 +29,3 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
-
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=sw-saturn.sw-saturn"></a>
-</p>
