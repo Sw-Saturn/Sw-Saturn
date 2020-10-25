@@ -1,15 +1,12 @@
 ## :wave: Hi there,
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sw-Saturn&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sw-Saturn&layout=compact" />
 </a>
-
-- :student: Studying: Electrical & Computer Engineering @ [NIT. Maizuru College](https://www.maizuru-ct.ac.jp)
-
-- :octocat: Portfolio: [sw-saturn.dev](https://sw-saturn.dev)
 
 <p align='center'>
   
