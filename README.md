@@ -1,7 +1,6 @@
 ## :wave: Hi there,
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Sw-Saturn&count_private=true&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sw-Saturn&layout=compact&langs_count=8)
 
 <p align='center'>
   
